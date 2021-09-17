@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: center;
+    margin-top: 3.5rem;
+}
+
+.start-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 3.5rem;
+}
+
+.results {
+    display: flex;
+    justify-content: center;
+    margin-top: 3.5rem;
+}
+
+.bar-style {
+    display: flex;
+    justify-content: center;
+}
+
+#myProgress {
+    width: 50%;
+    background-color: grey;
+  }
+  
+  #myBar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+  }
